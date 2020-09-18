@@ -1,0 +1,8 @@
+# Removing PyPi-specific packages
+dist/*
+caer.egg-info/*
+build/*
+__pycache__/*
+*.pyc
+.vscode/*
+test.py
